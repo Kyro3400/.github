@@ -1,3 +1,2 @@
-## Hi there 👋
-
-Welcome to Open-Domains
+# Open Domains
+Free subdomains for personal sites, open-source projects, and more.
