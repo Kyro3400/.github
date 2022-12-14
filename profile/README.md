@@ -9,3 +9,6 @@ Go to https://github.com/open-domains/register to register your subdomain!
 | [`is-local.org`](https://is-local.org) |
 | [`is-not-a.dev`](https://is-not-a.dev) |
 | [`localplayer.dev`](https://localplayer.dev) |
+
+## Social Media
+- [Twitter](https://twitter.com/open_domains)
