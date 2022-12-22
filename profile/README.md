@@ -12,3 +12,4 @@ Go to https://github.com/open-domains/register to register your subdomain!
 
 ## Social Media
 - [Twitter](https://twitter.com/open_domains)
+- [Discord Server](https://discord.gg/kVjkg6VBwa)
