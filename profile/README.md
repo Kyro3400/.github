@@ -6,6 +6,7 @@ Go to https://github.com/open-domains/register to register your subdomain!
 
 | Domains |
 |:-:|
+| [`is-a-fullstack.dev`](https://is-a-fullstack.dev) |
 | [`is-cool.dev`](https://is-cool.dev) |
 | [`is-local.org`](https://is-local.org) |
 | [`is-not-a.dev`](https://is-not-a.dev) |
