@@ -8,7 +8,7 @@
 Just follow the steps below and you can start using your domain!
 
 #### GitHub Pages
-- Go to your GitHub repository that you use for your is-a.dev domain.
+- Go to your GitHub repository that you use for your domain.
 - Click on the Settings tab.
 - Click on the Pages link in the sidebar.
 - In the custom domain option, enter the domain you registered.
